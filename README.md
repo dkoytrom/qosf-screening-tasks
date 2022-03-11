@@ -1,6 +1,6 @@
 # qosf-screening-tasks
 Koutromanos Dimitris
 
-2 tasks uploaded
+Cohort 5 Screening Tasks
 
-Task 3 is the one that is submitted and to be graded
+I sumbit the task 3 (Find best results)
